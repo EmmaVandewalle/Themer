@@ -1,5 +1,7 @@
 # Themer
 
+Awesome icons for cursor: https://www.gnome-look.org/p/1366182/
+
 Links to different looks:
 * https://www.gnome-look.org/p/2119129 
 * https://www.pling.com/p/2110196 
